@@ -1,1 +1,1 @@
-this is a example of how to use git
+this is an example of how to use git
